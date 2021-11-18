@@ -29,7 +29,7 @@ void setup() {
   */
   
   cities =  new String[1];
-  cities[0] = "ulm";
+  cities[0] = "city";
   
   int w;  
   
